@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My Name is Luan Leal and i'm...<br><br>Currently knowing the vast and incredible world of programming. <br><br>😝 Creating bugs since March 2022;<br>📚 Currently learning about infra<br>❣️  Things that a like to do: play;soccer, read books, listen music and learn new skills;<br>🎯 Character: Determined, responsible and thirsty for learning;</p>
+<p align="left">My Name is Luan Leal and i'm...<br><br>Currently knowing the vast and incredible world of programming. <br><br>😝 Creating bugs since March 2022;<br>📚 Currently learning about infra<br>❣️  Things that a like to do: play soccer, read books, listen music and learn new skills;<br>🎯 Character: Determined, responsible and thirsty for learning;</p>
 
 ###
 
