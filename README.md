@@ -1,12 +1,12 @@
-<h1 align="left">Hey, world 👋 What's up?</h1>
+<h1 align="left">E ai, pessoal!! 👋 Tudo certo?</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
-<p align="left">My Name is Luan Leal and i'm...<br><br>Currently knowing the vast and incredible world of programming. <br><br>😝 Creating bugs since March 2022;<br>📚 Currently learning about infra<br>❣️  Things that a like to do: play soccer, read books, listen music and learn new skills;<br>🎯 Character: Determined, responsible and thirsty for learning;</p>
+<p align="left">Meu nome é Luan Leal e eu estou...<br><br>Atualmente conhecendo o vasto e incrível mundo da programação. <br><br>😝 Criando bugs desde março de 2022;<br>📚 Atualmente aprendendo sobre Infra<br>❣️  Coisas que eu gosto de fazer: Jogar futebol, ler livros, ouvir música e aprender novas habilidades;<br>🎯 Características: Determinado, responsável e louco por conhecimento;</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu codo em:</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">I'm Learning about</h2>
+<h2 align="left">Estou aprendendo sobre:</h2>
 
 ###
 
